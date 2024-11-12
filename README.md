@@ -30,7 +30,9 @@ data_feature_importance = 'Task1FeatureImportance.ipynb'
 
 In your terminal enter: 
 
+``````commandline
 python run_notebooks.py
+``````
 
 This will ensure all notebooks are run in sequential order.
 
